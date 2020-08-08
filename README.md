@@ -35,7 +35,7 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=R0L3eX9)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=R0L3eX9&theme=buefy&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
 
 [project]: https://nervous-ptolemy-e31f83.netlify.app/
 [twitter]: https://twitter.com/L3eR0
