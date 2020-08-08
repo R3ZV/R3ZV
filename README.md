@@ -33,6 +33,10 @@
 <br />
 <br />
 
+---
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=R0L3eX9)](https://github.com/anuraghazra/github-readme-stats)
+
 [project]: https://nervous-ptolemy-e31f83.netlify.app/
 [twitter]: https://twitter.com/L3eR0
 [youtube]: https://www.youtube.com/channel/UCpRVjm2akc52TKEP2osLcEQ?view_as=subscriber
