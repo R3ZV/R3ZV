@@ -1,7 +1,7 @@
 ### Hi there, I'm Razvan - aka [R0L3eX] 👋
 
 ## I'm a Student and a  Developer!
-- 🔭 I’m currently working on a [Password manageing site][project]!
+- 🔭 I’m currently working on a Vue App!
 - 🌱 I’m currently learning everything
 - 🥅 2020 Goals: Start freelencing
 - ⚡ Fun fact: I love to workout and watch tv shows
