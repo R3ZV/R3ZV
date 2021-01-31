@@ -1,10 +1,10 @@
 ### Hi there, I'm Razvan - aka [R0L3eX] 👋
 
 ## I'm a Student and a  Developer!
-- 🔭 I’m currently working on a Vue App!
+- 🔭 I’m currently working on developing my CSS skills!
 - 🌱 I’m currently learning everything
-- 🥅 2020 Goals: Start freelencing
-- ⚡ Fun fact: I love to workout and watch tv shows
+- 🥅 2021 Goals: Start freelencing
+- ⚡ Fun fact: I also do competitive programming
 
 ### Connect with me:
 
