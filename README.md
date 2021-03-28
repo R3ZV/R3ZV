@@ -8,12 +8,12 @@
 ### Connect with me:
 
 <!--[<img align="left" alt="R0L3eX" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="R0L3eX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="R0L3eX | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="R0L3eX | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="R0L3eX | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="R0L3eX | Twitter" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/twitter-color.svg" />][twitter]
+[<img align="left" alt="R0L3eX | LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-color.svg" />][linkedin]
+[<img align="left" alt="R0L3eX | Instagram" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-color.svg" />][instagram]
 <br />
+
+
 
 ### Languages and Tools:
 
@@ -38,6 +38,5 @@
 
 [project]: https://nervous-ptolemy-e31f83.netlify.app/
 [twitter]: https://twitter.com/MRazvan7
-[youtube]: https://www.youtube.com/channel/UCpRVjm2akc52TKEP2osLcEQ?view_as=subscriber
 [instagram]: https://www.instagram.com/razvan_maracine/
 [linkedin]: https://www.linkedin.com/in/razvan-maracine-5a35021a7/
