@@ -22,7 +22,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/javascript-programming-language.svg" />
 <img align="left" alt="React" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/react-js.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/node-js.svg" />
-<img align="left" alt="MongoDB" width="20px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/mongodb.svg" />
+<img align="left" alt="MongoDB" width="16px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/mongodb.svg" />
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
