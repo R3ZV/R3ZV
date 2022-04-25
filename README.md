@@ -2,7 +2,7 @@
 
 ## I'm a Student and a  Developer!
 - 🔭 I’m currently doing competitive programming
-- 🥅 2022 Goals: Learn raspberry pi && C
+- 🥅 2022 Goals: Learn Golang, Typescript, Python
 
 ### Connect with me:
 
